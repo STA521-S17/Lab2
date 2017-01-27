@@ -12,13 +12,17 @@ For the more experienced users, help your team mates.   Try adding extra fields 
 
 ## Team [Add Your Names Here] 
 
-**Team Captain**  
+---
+
+**Team Maintainer**  
 
 * Name: 
 * email:
 * github name:
 * Department:
 * About me: 
+
+---
 
 **Team Members**
 
