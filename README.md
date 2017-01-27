@@ -10,15 +10,15 @@ Each team member will need to edit this file and enter their information using m
 
 **Team Captain**  
 
-* Name:
+* Name: 
 * email:
 * Department:
 * About me: 
 
 **Team Members**
 
-* Name:
-* email:
+* Name: 
+* email: 
 * Department:
 * About me: 
 
