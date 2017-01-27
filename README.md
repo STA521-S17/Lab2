@@ -8,6 +8,8 @@ While this is overkill, you may create a git repo on saxon by selecting from the
 Each team member will need to edit this file and enter their information using markdown, and successfully push, pull and merge by the end of lab!  Each team should designate a Team Maintainer  (this could be your most experienced github user).
 For the more experienced users, help your team mates.   Try adding extra fields like your website or an image!  Once done remove all of the info above here.
 
+Note if you do create the repository as an Rproject, edit the .gitignore file to ignore the Lab2.Proj file
+
 ---
 
 ## Team [Add Team number] [Add Your Names Here] 
